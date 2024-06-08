@@ -1,4 +1,4 @@
-In this repository, you'll find all the code I've written and the projects I've completed during my participation in Stanford Code in Place 2024, a free, online, introductory programming course offered by Stanford University. These are not the most optimized codes but in working.
+In this repo, you'll find all the codes for the weekly tasks I've completed during my participation in Stanford Code in Place 2024, a free, online, introductory programming course offered by Stanford University. These are not the most optimized codes but in working.
 
 ![Stanford Code in Place](https://github.com/ibtisamafzal/Stanford-Code-in-Place-2024/assets/61791791/9fb96d1d-9bce-433f-b331-f8bd3747e8f3)
 
